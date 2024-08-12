@@ -1,0 +1,39 @@
+#dsp {
+    font-size: 30px;
+    color: rgb(248, 8, 8);
+    height: 10px;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: monospace;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-align: right;
+}
+
+#google {
+    text-decoration: none;
+    color: black;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+
+    /* border-width: 10px;
+    border-style: dotted;
+    border-color: crimson; */
+
+    text-align: center;
+    border: 10px solid crimson;
+    border-radius: 20px 0 20px 0;
+    /* border-radius: 20px 0; */
+    box-shadow: 5px 3px 7px 2px #585858;
+}
+
+.head {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+}
